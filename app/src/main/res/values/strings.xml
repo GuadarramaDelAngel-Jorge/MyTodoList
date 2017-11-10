@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_desc">Enter description</string>
+    <string name="add_record">Add record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">Empty</string>
+    <string name="export_records">Export</string>
+</resources>
